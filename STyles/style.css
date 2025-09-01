@@ -25,9 +25,33 @@
     /* Ajusta la imagen sin deformarla */
 }
 
-#ahhimg1{
+#ahhimg1 {
     display: flex;
     justify-content: center;
     align-items: center;
+}
 
+#bro {
+    font-size: 15px;
+    margin-bottom: 0;
+    font-weight: bolder;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.3);
+    width: fit-content;
+}
+
+#broo {
+    padding: 0;
+    margin: 0;
+}
+
+#brooo {
+    padding: 0;
+    margin: 0;
+}
+
+#idk {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
